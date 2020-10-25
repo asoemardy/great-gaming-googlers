@@ -1,4 +1,4 @@
-Month,Average_Stream,Gain_Stream,% Gain_Stream,Peak_Stream,Average_Views,Gain_Views,% Gain_Views,Peak_Views,Value,Gain_Hours,% Gain_Hours
+Month,Average_Views,Gain_Stream,% Gain_Stream,Peak_Views,Average_Stream,Gain_Views,% Gain_Views,Peak_Stream,Value,Gain_Hours,% Gain_Hours
 20-Oct,151000.00,"-53,045",-26%,754000.00,3000.00,-450,-12.90%,9100.00,83.4M,-63.5M,-43.20%
 20-Sep,204000.00,"162,989",396%,743000.00,3500.00,"2,985",598%,12400.00,147M,+116M,380%
 20-Aug,41100.00,"35,502",629%,267000.00,499.00,445,824%,3000.00,30.6M,+26.4M,634%
