@@ -1,1 +1,2 @@
-steam_key:"A512A8B39303D9E2AE486852929C315B"
+twitch_id : "YOUR ID HERE!";
+twitch_token: "TOKEN HERE!";
