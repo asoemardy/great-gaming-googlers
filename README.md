@@ -31,6 +31,4 @@ League of Legends: League of Legends is a model of consistency, and how a compet
 Counter Strike: The spikes in the viewership data are directly related to the big esport tournaments for counter strike. Counter strike was one of the first popular esport games, and through the support of the competitive scene along with its growth, counter strike has been able to make itself a staple on twitch and in the esport community. This along with League of Legends shows a continued support and growth of the Esport scene, and as of now, the biggest platform to watch these esports is through Twitch. Twitch and Esports benefit from having their players live stream and engage with their community directly. This is an invaluable part of twitch that brings people of the community together and allows them to ask questions, get insights on the game, and feel like a real part of a community. 
 
 
-Analysis
-
 
